@@ -1,5 +1,3 @@
-### Hi there 👋
-
 My current pet projects:
 * [gowalker/config](https://github.com/vkd/gowalker) - another approach to configure your service by reflection over a Config structure
 * [goag](https://github.com/vkd/goag) *[in active development]* - Go_OpenApi_Generator, tool generates boilerplate code for the http server
