@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+My current pet projects:
+* [gowalker/config](https://github.com/vkd/gowalker) - another approach to configure your service by reflection over a Config structure
+* [goag](https://github.com/vkd/goag) *[in active development]* - Go_OpenApi_Generator, tool generates boilerplate code for the http server
+
+My open source contributions:
+* [gin web framework](https://github.com/gin-gonic/gin/commits?author=vkd)
+
+
+
 <!--
 **vkd/vkd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
