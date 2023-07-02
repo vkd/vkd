@@ -5,7 +5,7 @@ My current pet projects:
 * [goag](https://github.com/vkd/goag) *[in active development]* - Go_OpenApi_Generator, tool generates boilerplate code for the http server
 
 My open source contributions:
-* [gin web framework](https://github.com/gin-gonic/gin/commits?author=vkd)
+* https://github.com/gin-gonic/gin web framework - [my commits](https://github.com/gin-gonic/gin/commits?author=vkd)
 
 
 
