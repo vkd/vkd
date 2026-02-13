@@ -4,7 +4,7 @@ My current pet projects:
 * [factorio-lite](https://github.com/vkd/factorio-lite/) - [**Game, Vue.js**] browser idle/incremental game with factorio assets
 
 My open source contributions:
-* https://github.com/gin-gonic/gin most popular web framework written on Golang - [my contributions](https://github.com/gin-gonic/gin/commits?author=vkd)
+* https://github.com/gin-gonic/gin most popular web framework written on Golang - [#8 contributor](https://github.com/gin-gonic/gin/commits?author=vkd)
 
 
 
