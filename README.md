@@ -1,7 +1,7 @@
 My current pet projects:
 * [gowalker/config](https://github.com/vkd/gowalker) - [**Golang, configuration, microservices**] another approach to configure your service by reflection over a Config structure
 * [goag](https://github.com/vkd/goag) *[in development]* - [**Golang, codegen, microservices**] Go_OpenApi_Generator, tool generates boilerplate code for the http server
-* [factorio-lite](https://github.com/vkd/factorio-lite/) - [**Game, Vue.js**] browser idle/incremental game with factorio assets
+* [factorio-lite](https://github.com/vkd/factorio-lite/) - [**Game, React.js**] browser idle/incremental game with factorio assets
 
 My open source contributions:
 * https://github.com/gin-gonic/gin most popular web framework written on Golang - [#8 contributor](https://github.com/gin-gonic/gin/commits?author=vkd)
